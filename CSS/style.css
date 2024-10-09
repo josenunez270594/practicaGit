@@ -2,3 +2,8 @@ h1{
     color: rgb(65, 154, 154);
     font-size: 50px;
 }
+p {
+    color: rgb(100, 100, 100);
+    font-size: 20px;
+    font-weight: bold;
+}
